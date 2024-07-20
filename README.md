@@ -1,5 +1,5 @@
 # Recipe-Hunt
-### Website url https://avanigupta06.github.io/Recipe-Hunt/
+### Website url: https://avanigupta06.github.io/Recipe-Hunt/
 •	Developed a responsive web application for searching and displaying recipes using TheMealDB API.
 •	Implemented dynamic fetching of recipe data with asynchronous JavaScript (Fetch API).
 •	Designed intuitive user interfaces with HTML and CSS, ensuring cross-browser compatibility and responsiveness.
