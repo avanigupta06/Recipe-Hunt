@@ -73,6 +73,11 @@ form button[type="submit"]:hover,
     box-shadow: 0 5px 10px rgba(78, 73, 73, 0.1), -5px -5px 10px rgba(34, 34, 34, 0.5);
     cursor: pointer;
     max-width: 350px;
+    transition: transform;
+}
+
+.recipe:hover {
+    transform: scale(1.1);
 }
 
 .recipe img {
@@ -122,6 +127,21 @@ form button[type="submit"]:hover,
 
 .recipe-details::-webkit-scrollbar {
     width: 10px;
+}
+
+.recipeName {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.ingredientList ul {
+    margin-bottom: 10px;
+    margin-left: -20px;
+}
+
+.recipeInstructions p {
+    line-height: 30px;
+    white-space: pre-line;
 }
 
 .recipe-close-btn {
