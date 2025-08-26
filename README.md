@@ -24,4 +24,4 @@ Cake, Brownies, Pie, Pancakes, Biryani, Soup, Omelette, etc.
 ![Screenshot 2024-07-28 222338](https://github.com/user-attachments/assets/2d4d2cf7-6576-4117-8951-c1f1807aecaf)
 
 
-### Website url: https://avanigupta06.github.io/Recipe-Hunt/
+
